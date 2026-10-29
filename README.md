@@ -1,4 +1,4 @@
-# Sellex — Ecossistema de gestão inteligente para pequenos negócioa
+# Sellex — Ecossistema de gestão inteligente para pequenos negócios
 
 Manual Tecnico Central da Plataforma Sellex, documentando a Arquitetura Global, a API de Integracoes & Automacao n8n e o Sistema de Funil de Vendas das Redes Sociais.
 
